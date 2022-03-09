@@ -1,0 +1,2 @@
+# HandWritingNumberRecognize
+BIT深度学习作业:使用全连接网络进行手写数字识别
